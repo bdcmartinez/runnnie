@@ -1,16 +1,36 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mi Portafolio de Análisis de Datos</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
 
-<!--
-**runnnie/runnnie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    <header>
+        <h1>Mi Portafolio de Análisis de Datos</h1>
+    </header>
 
-Here are some ideas to get you started:
+    <section id="about-me">
+        <h2>Sobre Mí</h2>
+        <p>Analista de datos con experiencia en...</p>
+    </section>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <section id="projects">
+        <h2>Proyectos</h2>
+        <article>
+            <h3>Proyecto 1</h3>
+            <p>Descripción del Proyecto 1...</p>
+        </article>
+        <article>
+            <h3>Proyecto 2</h3>
+            <p>Descripción del Proyecto 2...</p>
+        </article>
+    </section>
+
+    <footer>
+        <p>Contacto: <a href="mailto:tuemail@example.com">tuemail@example.com</a></p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
